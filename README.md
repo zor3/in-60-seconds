@@ -1,4 +1,4 @@
-[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/gitpitch/in-60-seconds)
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/zor3/in-60-seconds)
 
 # GitPitch In 60 Seconds
 
